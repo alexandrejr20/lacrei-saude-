@@ -1,0 +1,7 @@
+module.exports = {
+root: true,
+extends: ["next/core-web-vitals", "plugin:react/recommended"],
+rules: {
+"react/react-in-jsx-scope": "off"
+}
+};
