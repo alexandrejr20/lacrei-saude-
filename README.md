@@ -45,6 +45,7 @@ npm run dev
 ## Deploy & Rollback
 - Recomendado: deploy em Vercel
 - Rollback (manual): no painel do Vercel escolher deployment anterior e clicar em "Promote"; em CI, manter tag do último release funcional e reverter o merge PR/branch.
+- https://lacrei-saude-au9f.vercel.app
 
 
 ## Testes
